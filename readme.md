@@ -10,7 +10,7 @@
 java -jar VillagerBoatExample.jar
 ```
 
-**Output:**
+**Sample Output 1:**
 ```
 
 Number of test cases: 1
@@ -19,5 +19,21 @@ Number of people: 4
 Costs (separated by space): 150 600 700 800
 Output:
 2400
+
+```
+**Sample Output 2:**
+```
+
+Number of test cases: 2
+------- TEST CASE - 1 -------
+Number of people: 3
+Costs (separated by space): 20 30 40
+------- TEST CASE - 2 -------
+Number of people: 3
+Costs (separated by space): 30 40 50
+
+Output:
+90
+120
 
 ```
